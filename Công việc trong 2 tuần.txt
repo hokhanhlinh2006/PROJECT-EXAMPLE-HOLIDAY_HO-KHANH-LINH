@@ -1,0 +1,45 @@
+
+Phần 1. Đóng vai trò:
+	1. Khách hàng: Người lựa dự án (chủ đề thực hiện)
+		-> Mỗi bạn phải lựa chọn 1 chủ đề cho mình (gọi là 1 dự án)
+			Ví dụ:
+					PM quản lý thư viện
+					PM quản lý sinh viên
+					PM bán hàng
+					PM quản lý nhân sự
+					PM quản lý khách hàng
+					PM quản lý lịch chiếu phim
+					...
+		-> Yêu cầu:
+				Kết thúc project là 1 sản phẩm hoàn thiện:
+						+ front end: Khách hàng (người sử dụng)
+							-> Lựa chọn ngôn ngữ bất kỳ (reactJS, vueJS, angularJS,...)
+						+ back end: Admin (quản trị hệ thống)
+							-> Sử dụng: Java Backend.
+		
+	2. Người phân tích nghiệp vụ (BA):
+		-> Tạo SRS
+				Dữ liệu báo cáo trong file: XXX_SRS
+						Trong đó: XXX là tên dự án thực hiện
+						
+	3. Người quản trị dự án (PM):
+		-> Tính toán chi phí dự án: Học ở môn Quản lý dự án phần mềm
+		-> Calendar: Quản lý công việc
+				-> Dữ liệu báo cáo trong file: "XXX_Technical.xlsx"
+						Trong đó: XXX là tên dự án thực hiện
+						
+		* Chú ý:
+			+ Chia task trong 10 ngày 
+			+ Tuy nhiên dành ra tối thiểu 1 ngày trở lên làm ngày dự phòng
+			+ Thực tế chỉ chia task tối đa 9 ngày (chuẩn từ 8 ngày trở xuống)
+			+ Công việc test phải được thực sớm.
+			+ PM luôn luôn phải nắm được tiến độ các task theo các ngày.
+			+ Tất cả các task được đánh dấu theo các ngày thực hiện
+			+ Phải điền tiến độ % công việc
+			+ Phân chia công việc hợp lý (backend phải làm trước, frontend làm sau)
+						
+	4. Tất cả thành viên team dự án	
+		4.1 Triển khai code
+		4.2 Triển khai test
+		4.3 Triển khai viết tài liệu dự án
+				-> Báo cáo trong file: "BÁO CÁO BÀI TẬP LỚN"
